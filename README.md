@@ -1,4 +1,4 @@
-## **Alan Ramsay**
+# **Alan Ramsay**
 ### Junior Software Developer
 ##### *looking for work*
 ---------------------
