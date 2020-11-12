@@ -4,6 +4,7 @@
 ---------------------
 Hi, I am Alan a recent graduate from [CodeClan Edinburgh](https://codeclan.com/ "Links to CodeClan's Website") where I was on their Professional Software Developer Course. I am based outside Edinburgh, Scotland and have an interest in Home Automation, Full Stack dev and DevOps. The platform I use for my home automation is the opensource [Home Assistant](https://www.home-assistant.io/ "Links to the Home Assistant Website") which has a great community. Another techy interest of mine is 3D Printing, where I use my Creality Ender 3 printer to print allsorts of things for my home automation setup and a lot of usless stuff too.
 
+***
 <p align="center">
 Feel free to check out my LinkedIn, Instagram and Website.
 </p>
@@ -21,11 +22,11 @@ My Website <a href="https://aramsay.co.uk/" target="blank">aramsay.co.uk</a> (we
 <p align="center">
 Thanks for taking the time to check out my GitHub.
 </p>
-<hr border-top="8px, solid, #bbb">
-<br/>
+
+***
+
 <h2 align="center">Some of the technologies that I am familiar with.</h1>
 <br/>
-
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
@@ -45,6 +46,8 @@ Thanks for taking the time to check out my GitHub.
 <img src="https://img.shields.io/badge/Atom%20-66595C.svg?&style=for-the-badge&logo=Atom&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ%20-000000.svg?&style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" />
 </p>
+
+***
 
 <!--
 **aramsay03/aramsay03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
