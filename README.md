@@ -9,15 +9,15 @@ Hi, I am Alan a recent graduate from [CodeClan Edinburgh](https://codeclan.com/ 
 Feel free to check out my LinkedIn, Instagram and Website.
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/alan-ramsay" target="blank">
+<a href="https://www.linkedin.com/in/alan-ramsay" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/aramsay03/" target="blank">
+<a href="https://www.instagram.com/aramsay03/" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
 <p align="center">
-My Website <a href="https://aramsay.co.uk/" target="blank">aramsay.co.uk</a> (website is still in the development stages)
+My Website <a href="https://aramsay.co.uk/" target="_blank">aramsay.co.uk</a> (website is still in the development stages)
 </p>
 <p align="center">
 Thanks for taking the time to check out my GitHub.
