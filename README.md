@@ -9,15 +9,15 @@ Hi, I am Alan a recent graduate from [CodeClan Edinburgh](https://codeclan.com/ 
 Feel free to check out my LinkedIn, Instagram and Website.
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/alan-ramsay" target="_blank">
+<a href="https://www.linkedin.com/in/alan-ramsay" target="blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/aramsay03/" target="_blank">
+<a href="https://www.instagram.com/aramsay03/" target="blank">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
 <p align="center">
-My Website <a href="https://aramsay.co.uk/" target="_blank">aramsay.co.uk</a> (website is still in the development stages)
+My Website <a href="https://aramsay.co.uk/" target="blank">aramsay.co.uk</a> (website is still in the development stages)
 </p>
 <p align="center">
 Thanks for taking the time to check out my GitHub.
@@ -45,6 +45,13 @@ Thanks for taking the time to check out my GitHub.
 <img src="https://img.shields.io/badge/VS_Code%20-007ACC.svg?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
 <img src="https://img.shields.io/badge/Atom%20-66595C.svg?&style=for-the-badge&logo=Atom&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ%20-000000.svg?&style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker%20-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Zigbee%20-EB0443.svg?&style=for-the-badge&logo=Zigbee&logoColor=white" />
+<img src="https://img.shields.io/badge/ZWave%20-1B365D.svg?&style=for-the-badge&logo=Z-wave&logoColor=white" />
+<img src="https://img.shields.io/badge/Proxmox%20-E57000.svg?&style=for-the-badge&logo=Proxmox&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubiquiti%20-0559C9.svg?&style=for-the-badge&logo=ubiquiti&logoColor=white" />
+<img src="https://img.shields.io/badge/WireGuard%20-88171A.svg?&style=for-the-badge&logo=WireGuard&logoColor=white" />
+<img src="https://img.shields.io/badge/Affinity_Designer%20-1B72BE.svg?&style=for-the-badge&logo=Affinity-Designer&logoColor=white" />
 </p>
 
 ***
