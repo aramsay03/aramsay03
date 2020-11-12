@@ -25,8 +25,8 @@ Thanks for taking the time to check out my GitHub.
 
 ***
 
-<h2 align="center">Some of the technologies that I am familiar with.</h1>
-<br/>
+<h3 align="center" ><i><u>Some of the technologies that I am familiar with.</u></i></h1>
+
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
