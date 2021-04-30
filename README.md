@@ -1,6 +1,6 @@
 # **Hi 👋 I'm Alan Ramsay**
-### I'm a Junior Software Developer based just outside Edinburgh
-##### *currently looking for work*
+### I'm a Software Developer based just outside Edinburgh
+
 ---------------------
 Hi, I am Alan a recent graduate from [CodeClan Edinburgh](https://codeclan.com/ "Links to CodeClan's Website") where I was on their Professional Software Developer Course. I am based outside Edinburgh, Scotland and have an interest in Home Automation, Full Stack dev and DevOps. The platform I use for my home automation is the opensource [Home Assistant](https://www.home-assistant.io/ "Links to the Home Assistant Website") which has a great community. Another techy interest of mine is 3D Printing, where I use my Creality Ender 3 printer to print allsorts of things for my home automation setup and a lot of usless stuff too.<br/>
 <br/>
