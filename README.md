@@ -1,10 +1,10 @@
 # **Hi 👋 I'm Alan Ramsay**
 ### I'm a Software Engineer based just outside Edinburgh
-##### *currently looking for work*
+<!-- ##### *currently looking for work* -->
 ---------------------
 Hi, I am Alan a software engineer and graduated for [CodeClan Edinburgh](https://codeclan.com/ "Links to CodeClan's Website") in 2020 where I was on their Professional Software Developer Course. I am based outside Edinburgh, Scotland and have an interest in Home Automation, Full Stack dev and DevOps. The platform I use for my home automation is the opensource [Home Assistant](https://www.home-assistant.io/ "Links to the Home Assistant Website") which has a great community. Another techy interest of mine is 3D Printing, where I use my Creality Ender 3 printer to print allsorts of things for my home automation setup and a lot of usless stuff too.<br/>
 <br/>
-Since graduating from CodeClan I proudly been volunteering for the [Scottish Tech Army](https://www.scottishtecharmy.org/ "Links to the STA Website") and have been learning lots while helping charities and organisations. I currently work for MI:RNA Diagnostics.<br/><br/>
+Since graduating from CodeClan I have proudly been volunteering for the [Scottish Tech Army](https://www.scottishtecharmy.org/ "Links to the STA Website") and have been learning lots while helping charities and organisations. I currently work for MI:RNA Diagnostics.<br/><br/>
 ***
 <!-- <h2 align="center"><strong>Recent Projects</strong></h2>
 Some current project that I have been working on is an advent calendar for the Scottish Tech Army which we pulled a team together at the last minute and deployed within a week. This advent calendar steamed from a personal project to create a digital advent calendar for my son Jack to accompany a lego set.<br/>
